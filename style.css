@@ -14,6 +14,10 @@
     margin: 10px;
     z-index: 0;
     }
+.disc{
+  position: absolute;
+  
+}
     #r{
         text-align: center;
         margin-left:350px;
@@ -32,7 +36,7 @@
 
 
         a {
-            color: white;
+            color: black;
             outline: 0;
             -webkit-transition: all 0.3s ease-in-out;
             -moz-transition: all 0.3s ease-in-out;
@@ -50,7 +54,7 @@
           
          
           .desktop-header-3 {
-            background: black;
+         
             padding: 20px 0;
             margin-left: 225px;
             border-bottom: solid 1px rgba(255, 255, 255, 0.1);
@@ -66,7 +70,7 @@
             padding-bottom: 0;
           }
           .desktop-header-3 .navbar-dark .navbar-nav .nav-link {
-            color: #FFF;
+            color: black;
           }
           .desktop-header-3 .nav-link {
             font-size: 16px;
@@ -120,8 +124,8 @@
             flex-direction: row;
           }
           .desktop-header-3 .nav-item {
-            margin-right: 2rem; /* Adjust spacing between items */
+            margin-right: 2rem; 
           }
-#users{
-            
-        }
+#iframe1{
+  border: 0;
+}
