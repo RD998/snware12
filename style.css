@@ -14,8 +14,28 @@
     margin: 10px;
     z-index: 0;
     }
+#disc3{
+  position: absolute;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    width: 100px;
+    height: 25px;
+}
 .disc{
   position: absolute;
+  
+}
+#back{
+  top: 40;
+  left: 20;
+  position: absolute;
+  z-index: 1;
+  height: 45px;
+  width: 90px;
+  border-radius: 15px;
+  font-size: 16px;
+  background-color:#5cb85c;
   
 }
     #r{
