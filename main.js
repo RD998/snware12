@@ -55,5 +55,10 @@ document.addEventListener("DOMContentLoaded", function() {
     window.DPquote = DPquote;
     window.SPquote = SPquote;
 });
+function Logout(){
+    console.log("ss");
+    window.location="Signin.html";
+    
+}
 
 
